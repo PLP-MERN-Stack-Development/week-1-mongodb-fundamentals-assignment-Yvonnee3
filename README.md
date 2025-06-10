@@ -9,4 +9,4 @@
    mongosh insert_books.js
    mongosh load("queries.js")
 
-   ![alt text](image.png)
+   ![image](https://github.com/user-attachments/assets/04394788-2018-4435-89b5-ecc19fc96d22)
